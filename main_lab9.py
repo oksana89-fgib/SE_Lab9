@@ -70,3 +70,5 @@ def SE_lab9():
     plt.ylabel('Число выживших')
     plt.title('Диаграмма - количество выживших мужчин')
     st.pyplot(fig)
+
+SE_lab9()
